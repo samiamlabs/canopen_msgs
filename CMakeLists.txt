@@ -19,6 +19,7 @@ set(msg_files
 
 set(srv_files
   "srv/GetObject.srv"
+  "srv/GetJointState.srv"
   "srv/SetObject.srv"
 )
 

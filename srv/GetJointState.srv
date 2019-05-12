@@ -1,0 +1,6 @@
+string joint_name
+---
+bool success
+float64 position
+float64 velocity
+float64 effort
